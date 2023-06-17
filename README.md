@@ -1,4 +1,5 @@
 # Projeto Alura FAQ #
 
-🛠 ## NextJs ##
+🛠
    ## JavascriptJs ##
+   ## NextJs ##
