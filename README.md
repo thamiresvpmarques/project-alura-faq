@@ -1,5 +1,5 @@
 # Projeto Alura FAQ #
 
 🛠
-   ## JavascriptJs ##
+   ## Javascript ##
    ## NextJs ##
